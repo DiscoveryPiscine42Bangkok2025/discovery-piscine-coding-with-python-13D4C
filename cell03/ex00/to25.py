@@ -1,4 +1,5 @@
 want = 25
+print("Enter a number less than 25")
 num = int(input())
 if want > num:
     while True:
